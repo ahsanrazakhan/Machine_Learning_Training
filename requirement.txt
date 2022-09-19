@@ -6,3 +6,5 @@ sklearn
 matplotlib==3.3.4
 keras==2.9.0
 scikit-plot==0.3.7
+tensorflow==2.8.0
+seaborn==0.11.1
