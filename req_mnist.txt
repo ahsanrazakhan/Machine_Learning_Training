@@ -8,3 +8,4 @@ scikit-plot==0.3.7
 tensorflow==2.8.0
 seaborn==0.11.1
 protobuf==3.20.0
+nbconvert
